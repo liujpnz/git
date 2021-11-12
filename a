@@ -4,3 +4,8 @@ commit3 from git2
 commit4 from git1 merge with git2
 commit5 from git1
 commit6 from git1
+commit7 from git1
+commit8 from git1 repo
+commit9 from git1 LOCAL
+commit9 from git1 repo
+commit merge9
