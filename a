@@ -7,3 +7,5 @@ commit6 from git1
 commit7 from git1
 commit8 from git1 repo
 commit9 from git1 LOCAL
+commit9 from git1 repo
+commit merge9
